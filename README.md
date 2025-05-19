@@ -1,3 +1,10 @@
+Name :CHAITHANYA K U
+CAN_33739257
+Github Link : https://github.com/kuchaithanya/Hello_World
+
+1.	Establishing a CI/CD Pipeline for Automated Deployments
+Git Bash Commands Execution
+
 **#Git-Bash-Commands-Execution**
 
 Configure your Git with your name and email.
